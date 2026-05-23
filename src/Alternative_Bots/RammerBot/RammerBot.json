@@ -1,0 +1,11 @@
+{
+  "name": "RammerBot",
+  "version": "1.0",
+  "authors": ["3D"],
+  "description": "Bot yang mengoptimalkan Ram Damage dan Ram Damage Bonus. Strategi greedy: selalu kejar musuh dengan energi terendah untuk ram kill.",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".NET 6.0",
+  "programmingLang": "C# 8.0"
+}

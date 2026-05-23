@@ -1,0 +1,11 @@
+{
+  "name": "SniperBot",
+  "version": "1.0",
+  "authors": ["3D"],
+  "description": "Bot sniper yang menjaga jarak optimal dan memilih firepower berdasarkan ekspektasi keuntungan. Strategi greedy: maksimalkan expected gain per tembakan.",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".NET 6.0",
+  "programmingLang": "C# 8.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SurvivorBot",
+  "version": "1.0",
+  "authors": ["3D"],
+  "description": "Bot survival yang memaksimalkan Survival Score dan Last Survival Bonus. Strategi greedy: selalu pilih gerakan yang menjauhi ancaman terdekat.",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".NET 6.0",
+  "programmingLang": "C# 8.0"
+}
